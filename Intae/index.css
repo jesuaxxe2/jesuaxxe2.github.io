@@ -1,0 +1,57 @@
+
+nav img{
+    width: 80px;
+    background-color: white;
+}
+nav .text-Profesores{
+    color: #97c9be;
+}
+nav .text-Carreras{
+    color: #97c9be;
+}
+nav .text-Instalaciones{
+    color: #97c9be;
+}
+nav .text-Matricula{
+    color: #97c9be;
+}
+#Principal img{
+    max-height: 70vh;
+    object-fit: cover;
+
+}
+#Principal{
+    position: relative;
+}
+#Principal #contenido{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    color: white;
+}
+#Principal .container, #Principal .row{
+    width: 100%;
+    height: 100%;
+}
+#footer{
+    background-color: #112E4F ;
+}
+#footer a{
+    text-decoration: none;
+    color: white;
+}
+#vision{
+    border: none;
+    background: rgb(3, 1, 52);
+    padding: 16px;
+    margin: auto;
+    float: left;
+    color: white;
+    height: 450px;
+}
+.Parqueo{
+    float: left;
+}
